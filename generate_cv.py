@@ -132,7 +132,7 @@ html_content = """
         <header>
             <h1>PRINCE DAS ADHIKARY</h1>
             <div class="contact-line">
-                princeadhi123@gmail.com | +358 46 8011795 | Turku, Finland (Willing to Relocate)
+                princeadhi123@gmail.com | +358 46 8011795 | Turku, Finland (Hybrid)
             </div>
             <div class="contact-line">
                 <a href="https://linkedin.com/in/prince-adhikary-037719102">linkedin.com/in/prince-adhikary</a> |
@@ -172,7 +172,7 @@ html_content = """
                     <td class="row-right">Sept 2022 – Dec 2023</td>
                 </tr>
                 <tr>
-                    <td class="sub-left">Swansea University</td>
+                    <td class="sub-left">Swansea University, UK</td>
                     <td class="sub-right">Honors: First Class | "Best Performing Student Award"</td>
                 </tr>
             </table>
