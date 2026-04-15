@@ -153,8 +153,8 @@ html_content = """
                     <td class="row-right">Jan 2025 – Present</td>
                 </tr>
                 <tr>
-                    <td class="sub-left">University of Turku (TRILA)</td>
-                    <td class="sub-right">Turku, Finland</td>
+                    <td class="sub-left">University of Turku (TRILA), Finland</td>
+                    <td class="sub-right"></td>
                 </tr>
             </table>
             <ul>
@@ -222,7 +222,7 @@ html_content = """
                     <td class="row-right">July 2021 – July 2022</td>
                 </tr>
                 <tr>
-                    <td class="sub-left">NEC Software Solutions India</td>
+                    <td class="sub-left">NEC Software Solutions, India</td>
                     <td class="sub-right"></td>
                 </tr>
             </table>
@@ -240,7 +240,7 @@ html_content = """
                     <td class="row-right">July 2019 – June 2021</td>
                 </tr>
                 <tr>
-                    <td class="sub-left">NEC Software Solutions India</td>
+                    <td class="sub-left">NEC Software Solutions, India</td>
                     <td class="sub-right"></td>
                 </tr>
             </table>
